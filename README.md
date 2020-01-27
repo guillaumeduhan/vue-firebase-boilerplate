@@ -1,6 +1,6 @@
 # Vue Firebase Boilerplate
 
-![logo](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vbs.png)
+![logo](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vfxb.png)
 
 - Vue 2 // Vue-CLI 3
 - Firebase
