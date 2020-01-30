@@ -1,4 +1,4 @@
-# Vue Firebase Boilerplate
+# Vue && Vuefire Boilerplate
 
 ![logo](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vfxb.png)
 
