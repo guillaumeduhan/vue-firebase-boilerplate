@@ -10,18 +10,6 @@ import MyPlugin from './plugins/my-plugin'
 Vue.use(BootstrapVue)
 Vue.use(MyPlugin)
 
-const configOptions = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  databaseURL: process.env.DB_URL,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESS_SENDER_ID,
-  appId: process.env.APP_ID,
-}
-
-firebase.initializeApp(configOptions)
-
 Vue.config.productionTip = false
 Vue.prototype.$log = console.log
 
