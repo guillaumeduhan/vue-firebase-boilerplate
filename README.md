@@ -3,7 +3,7 @@
 ![logo](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vfxb.png)
 
 - Vue 2 // Vue-CLI 3
-- Firebase
+- Vuefire // Firebase
 - Bootstrap 4
 - Vuex
 - Vue-Router
@@ -33,6 +33,7 @@ npm run serve
 ## Built With
 
 * [Vue CLI](https://cli.vuejs.org/) - Standard Tooling for Vue.js Development
+* [Vuefire](https://github.com/vuejs/vuefire) - Realtime bindings between Vue/Vuex and Firebase
 * [Firebase](https://firebase.google.com/) - Firebase is a database by Google
 * [Bootstrap-vue](https://bootstrap-vue.js.org/) - Bootstrap v4 is the world's most popular framework for building responsive, mobile-first sites.
 * [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
