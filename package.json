@@ -1,6 +1,6 @@
 {
   "name": "Vue-Firebase-Boilerplate",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "author": "Guillaume Duhan",
   "contributors": [],
   "description": "Vue-Cli-3, Vuex, Vue-Router, Bootstrap 4, Babel, ESLint, Axios, SCSS and Pug/HTML boilerplate.",
