@@ -1,6 +1,6 @@
-# Vue && Vuefire Boilerplate
+# Vue & Vuefire Boilerplate
 
-![logo](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vfxb.png)
+![logo](https://repository-images.githubusercontent.com/236559071/b6486200-4144-11ea-9fd3-fcb3bd87520e)
 
 - Vue 2 // Vue-CLI 3
 - Vuefire // Firebase
